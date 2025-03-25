@@ -1,4 +1,4 @@
-name: Post Json File to Two URLs
+name: Post Json File to Two URLs 2
 
 on:
   push:
